@@ -4,7 +4,7 @@ Here's a step-by-step guide and documentation for setting up and running the `as
 
 ### Setup Video
 
-[![Watch the video](https://github.com/rupesh226/assettracking-app/blob/main/Swagger-UI.png)](https://www.youtube.com/watch?v=s_TeDU3cSKw)
+[![Watch the video]](https://www.youtube.com/watch?v=s_TeDU3cSKw)
 
 ### Prerequisites
 
