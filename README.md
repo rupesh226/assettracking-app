@@ -133,4 +133,4 @@ By following these steps, you can set up and run the `assettracking-app` on your
 
 http://localhost:8080/swagger-ui/index.html
 
-![alt text](http://url/to/img.png)
+![Swagger-UI](https://github.com/rupesh226/assettracking-app/blob/main/Swagger-UI.png)
