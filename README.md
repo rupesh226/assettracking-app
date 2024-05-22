@@ -2,6 +2,10 @@ Here's a step-by-step guide and documentation for setting up and running the `as
 
 ## Asset Tracking Application Setup and Configuration
 
+### Setup Video
+
+[![Watch the video](https://github.com/rupesh226/assettracking-app/blob/main/Swagger-UI.png)](https://www.youtube.com/watch?v=s_TeDU3cSKw)
+
 ### Prerequisites
 
 1. **Docker**: Ensure Docker is installed on your local machine. You can download and install Docker from [here](https://www.docker.com/products/docker-desktop).
