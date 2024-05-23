@@ -4,7 +4,7 @@ Here's a step-by-step guide and documentation for setting up and running the `as
 
 ### Setup Video
 
-[![Watch the video](https://github.com/rupesh226/assettracking-app/blob/main/Swagger-UI.png)](https://www.youtube.com/watch?v=s_TeDU3cSKw)
+[![Watch the video](https://github.com/rupesh226/assettracking-app/blob/main/img/gHrep.png)](https://www.youtube.com/watch?v=s_TeDU3cSKw)
 
 ### Prerequisites
 
@@ -137,4 +137,4 @@ By following these steps, you can set up and run the `assettracking-app` on your
 
 http://localhost:8080/swagger-ui/index.html
 
-![Swagger-UI](https://github.com/rupesh226/assettracking-app/blob/main/Swagger-UI.png)
+![Swagger-UI](https://github.com/rupesh226/assettracking-app/blob/main/img/Swagger-UI.png)
